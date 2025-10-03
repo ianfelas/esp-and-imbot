@@ -14,7 +14,7 @@ _G.ESPRainbow = true
 -- FOV Settings
 _G.FOVEnabled = true
 _G.FOVColorName = "white"
-_G.FOVRadius = 60
+_G.FOVRadius = 120
 _G.FOVFilled = false
 _G.FOVTransparency = 0.7
 _G.FOVThickness = 1
