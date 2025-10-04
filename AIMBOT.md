@@ -1,5 +1,5 @@
 _G.AimbotEnabled = true
-_G.TeamCheck = false
+_G.TeamCheck = true
 _G.AimPart = "Head"
 _G.Sensitivity = 1 -- 1 = snap, lower = smooth
 
@@ -23,4 +23,4 @@ _G.FOVCircleSides = 64
 
 -- Toggle Key
 _G.ScriptEnabled = true
-_G.ToggleKey = "RightShift"
+_G.ToggleKey = "LeftShift"
